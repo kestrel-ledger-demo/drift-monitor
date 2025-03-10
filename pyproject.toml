@@ -1,0 +1,4 @@
+[project]
+name = "drift-monitor"
+version = "0.1.0"
+dependencies = ["numpy", "pandas", "scikit-learn"]
